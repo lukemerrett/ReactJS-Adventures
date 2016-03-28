@@ -4,6 +4,8 @@ Repository for learning the ReactJS framework.
 
 Beginning with the [Getting Started](https://facebook.github.io/react/docs/getting-started.html) guide.
 
+Then moving on to the [Tutorial](https://facebook.github.io/react/docs/tutorial.html).
+
 # Pre-requisites
 
 * [NodeJS](https://nodejs.org/en/)
@@ -18,3 +20,5 @@ We're using Browserify to bundle all dependencies into a single script.  To do t
 # Notes
 
 > React is all about modular, composable components.
+
+React (optionally) uses JSX; an XML style syntax that integrates markup with the JavaScript.  This is precompiled down to plain JS when bundled.
